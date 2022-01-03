@@ -1,1 +1,2 @@
-# mule-ee-standalone11
+# mule-ee-standalone
+mule-runtime 4.4
